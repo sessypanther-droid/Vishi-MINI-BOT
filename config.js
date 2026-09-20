@@ -42,7 +42,7 @@ module.exports = {
     // widiyata). Meka danna one: aye methana thibba eka mokuth GitHub ekata push
     // unoth, wena kenekuta zip eka evva unoth — meka wisin database password eka
     // aye leak wenna puluwan. process.env eken denna nam eka override wela wada karai.
-    MONGODB_URI: process.env.MONGODB_URI || "mongodb+srv://hefev36887_db_user:XGpfGuVniL4ah1wE@cluster0.njv9jlm.mongodb.net/?appName=Cluster0",
+    MONGODB_URI: process.env.MONGODB_URI || "mongodb+srv://whatsappminibot_db_user:uEwJp0ACjFtHvZGk@cluster0.n4asy3o.mongodb.net/",
 
     // Railway eke deployed app eke public URL eka (adminpanel/mypanel link WhatsApp
     // ekata evanna use wenne meka). Railway > Settings > Networking ekේ penena domain eka
